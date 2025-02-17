@@ -1,0 +1,15 @@
+/Users/francinemette/Desktop/Exercicio C# 2/Exercicio-C-2/Exercicio-C-2/bin/Debug/net9.0/Exercicio-C-2
+/Users/francinemette/Desktop/Exercicio C# 2/Exercicio-C-2/Exercicio-C-2/bin/Debug/net9.0/Exercicio-C-2.deps.json
+/Users/francinemette/Desktop/Exercicio C# 2/Exercicio-C-2/Exercicio-C-2/bin/Debug/net9.0/Exercicio-C-2.runtimeconfig.json
+/Users/francinemette/Desktop/Exercicio C# 2/Exercicio-C-2/Exercicio-C-2/bin/Debug/net9.0/Exercicio-C-2.dll
+/Users/francinemette/Desktop/Exercicio C# 2/Exercicio-C-2/Exercicio-C-2/bin/Debug/net9.0/Exercicio-C-2.pdb
+/Users/francinemette/Desktop/Exercicio C# 2/Exercicio-C-2/Exercicio-C-2/obj/Debug/net9.0/Exercicio-C-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/francinemette/Desktop/Exercicio C# 2/Exercicio-C-2/Exercicio-C-2/obj/Debug/net9.0/Exercicio-C-2.AssemblyInfoInputs.cache
+/Users/francinemette/Desktop/Exercicio C# 2/Exercicio-C-2/Exercicio-C-2/obj/Debug/net9.0/Exercicio-C-2.AssemblyInfo.cs
+/Users/francinemette/Desktop/Exercicio C# 2/Exercicio-C-2/Exercicio-C-2/obj/Debug/net9.0/Exercicio-C-2.csproj.CoreCompileInputs.cache
+/Users/francinemette/Desktop/Exercicio C# 2/Exercicio-C-2/Exercicio-C-2/obj/Debug/net9.0/Exercicio-C-2.sourcelink.json
+/Users/francinemette/Desktop/Exercicio C# 2/Exercicio-C-2/Exercicio-C-2/obj/Debug/net9.0/Exercicio-C-2.dll
+/Users/francinemette/Desktop/Exercicio C# 2/Exercicio-C-2/Exercicio-C-2/obj/Debug/net9.0/refint/Exercicio-C-2.dll
+/Users/francinemette/Desktop/Exercicio C# 2/Exercicio-C-2/Exercicio-C-2/obj/Debug/net9.0/Exercicio-C-2.pdb
+/Users/francinemette/Desktop/Exercicio C# 2/Exercicio-C-2/Exercicio-C-2/obj/Debug/net9.0/Exercicio-C-2.genruntimeconfig.cache
+/Users/francinemette/Desktop/Exercicio C# 2/Exercicio-C-2/Exercicio-C-2/obj/Debug/net9.0/ref/Exercicio-C-2.dll
